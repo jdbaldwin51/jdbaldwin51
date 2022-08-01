@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdbaldwin51
-- 👀 I’m a software engineer
-- 🌱 I’ve learned so much about back end web development in Ruby at Launch School
+- 👀 I’m a software engineer looking for my first job.
+- 🌱 I am proficient in Ruby, Postgresql, Sinatra, and Rails.
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me at jdbaldwin51@gmail.com
 
