@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdbaldwin51
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning back end web development in Ruby at Launch School
+- 👀 I’m a software engineer
+- 🌱 I’ve learned so much about back end web development in Ruby at Launch School
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 How to reach me at jdbaldwin51@gmail.com
 
